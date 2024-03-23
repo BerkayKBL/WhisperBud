@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FotoFlock</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="passwordAgain">Password Again</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="not_have_account">Are you not have account?</string>
+    <string name="have_account">Are you have account?</string>
+</resources>
